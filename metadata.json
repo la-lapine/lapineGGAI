@@ -1,0 +1,8 @@
+{
+  "name": "Remix la Lapine",
+  "description": "la Lapine - Thế giới Character AI \u0026 Vùng đất thỏ mộng mơ với âm nhạc lofi và trang trại thỏ cộng đồng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
